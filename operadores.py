@@ -15,4 +15,4 @@ print(3 ** 3)
 # + para contatenar
 # * replicar un string 
 print("Hola a " + "todos!")
-print("DSM 3A" *4)
+print("DSM 3A" * 4)
